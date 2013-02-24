@@ -1,0 +1,7 @@
+This project implements the majority of the functionality in the Attributed Strings
+demonstration from CS193P.  The Font manipulation is not implemented.
+
+There are differences between this code and the demonstration code from the course.
+For example, rather than having stacks of IBActions, we use a single function that
+interrogates the sender to determine how to style the text in question.
+
